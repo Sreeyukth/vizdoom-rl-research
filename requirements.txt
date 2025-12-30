@@ -1,0 +1,23 @@
+# Core Python utilities
+numpy
+matplotlib
+tqdm
+
+# Jupyter
+jupyter
+ipykernel
+
+# VizDoom environment
+vizdoom
+
+# Reinforcement Learning
+gymnasium
+stable-baselines3
+
+# Deep Learning
+torch
+torchvision
+
+# Logging & analysis (useful later)
+tensorboard
+seaborn
